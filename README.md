@@ -1,8 +1,8 @@
 ## Hi there 👋
 
     ⚙️ Master of Computer Science
-    👨‍💻 Web & Software Developer 
-    🐥 42-Warsaw
+    👨‍💻 IT Support Engineer | Software & Web Developer 
+    🐥 C/C++ Developer in 42-Warsaw
     🇹🇷🇺🇸 Contact me with those language
 
   Latest Medium Blog Posts
