@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-    ⚙️ Master of Computer Science
+    ⚙️ Graduated with a Master’s in Computer Science
     👨‍💻 IT Support Engineer | Software & Web Developer 
     🐥 C/C++ Developer in 42-Warsaw
     🇹🇷🇺🇸 Contact me with those language
